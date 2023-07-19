@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipeFinder</string>
+    <string name="search_for_recipes">Search for Recipes</string>
+    <string name="search">Search</string>
+    <string name="cuisine_prompt">Select Cuisine</string>
+    <string-array name="cuisine_array">
+        <item>Italian</item>
+        <item>Indian</item>
+        <item>Mexican</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
